@@ -37,7 +37,7 @@ The project uses the following HU ranges for tissue segmentation:
 
 ```
 Bronchi_Tree/
-├── Dutkiewicz_329076_Projekt_Indywidualny_English.ipynb  # Main Jupyter Notebook
+├── Dutkiewicz_Bronchi_Tree_English.ipynb                 # Main Jupyter Notebook
 ├── README.md                                              # This file
 ├── Z76102888/                                             # DICOM data directory
 ├── output/                                                # Output files
@@ -170,7 +170,7 @@ pip install trame trame-vuetify trame-vtk
 
 2. **Run Notebook**
    ```bash
-   jupyter notebook Dutkiewicz_329076_Projekt_Indywidualny_English.ipynb
+   jupyter notebook Dutkiewicz_Bronchi_Tree_English.ipynb
    ```
 
 3. **Output Files**
